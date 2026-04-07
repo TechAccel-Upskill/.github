@@ -1,5 +1,3 @@
-<img src="TechAccel_logo.jpg" alt="TechAccel Logo" width="200"/>
-
 # 🚀 TechAccel — Accelerating Young Minds
 
 ![Tech](https://img.shields.io/badge/Tech-Upskilling-blue?style=for-the-badge)
